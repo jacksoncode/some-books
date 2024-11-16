@@ -27,7 +27,7 @@
 * [Java网络编程(第3版,2004).(Java.Network.Programming).Elliotte.Rusty.Harold.文字版](Java\Java网络编程(第3版,2004).(Java.Network.Programming).Elliotte.Rusty.Harold.文字版.pdf)
 ### Linux
 * [LinuxShell脚本攻略.第3版](Linux\LinuxShell脚本攻略.第3版.pdf)
-* [LinuxShell脚本攻略（第3版） 图灵版 ](Linux\LinuxShell脚本攻略（第3版） 图灵版.pdf)
+* [LinuxShell脚本攻略（第3版）图灵版](Linux\LinuxShell脚本攻略（第3版）图灵版.pdf)
 * [Linux命令行与shell脚本编程大全.第3版](Linux\Linux命令行与shell脚本编程大全.第3版.pdf)
 * [Linux就该这么学.epub](Linux\Linux就该这么学.epub)
 * [Linux就该这么学.pdf](Linux\Linux就该这么学.pdf)
@@ -36,10 +36,10 @@
 * [鸟哥的Linux私房菜基础学习篇(第三版)](Linux\Linux鸟哥的Linux私房菜基础学习篇(第三版).pdf)
 * [鸟哥的Linux私房菜服务器架设篇(第三版)](Linux\Linux鸟哥的Linux私房菜服务器架设篇(第三版).pdf)
 ### Python
-* [EffectivePython.编写高质量Python代码的59个有效方法.BrettSlatkin](Python\Python Effective Python.编写高质量Python代码的59个有效方法.Brett Slatkin.pdf)
-* [Python核心编程-第二版.epub](Python\Python 核心编程 第二版.epub)
-* [Python核心编程(第二版).pdf](Python\Python 核心编程(第二版).pdf)
-* [Python3CookBook中文版.mobi](Python\Python3 CookBook中文版.mobi)
+* [EffectivePython.编写高质量Python代码的59个有效方法.BrettSlatkin](Python\PythonEffectivePython.编写高质量Python代码的59个有效方法.BrettSlatkin.pdf)
+* [Python核心编程-第二版.epub](Python\Python核心编程第二版.epub)
+* [Python核心编程(第二版).pdf](Python\Python核心编程(第二版).pdf)
+* [Python3CookBook中文版.mobi](Python\Python3CookBook中文版.mobi)
 * [Python基础教程（第3版）中文版](Python\Python基础教程（第3版）中文版.pdf)
 * [Python学习手册（原书第4版）-MarkLutz.epub](Python\Python学习手册（原书第4版）-MarkLutz.epub)
 * [Python学习手册（原书第4版）-MarkLutz.pdf](Python\Python学习手册（原书第4版）-MarkLutz.pdf)
