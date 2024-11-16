@@ -8,8 +8,7 @@
 * [Docker进阶与实战(容器技术系列)](Docker\Docker进阶与实战(容器技术系列).epub)
 * [第一本Docker书（修订版）](Docker\Docker第一本Docker书（修订版）.pdf)
 ### Go
-* [Go语言圣经-中文版.epub.baiduyun.p.downloading](Go\Go 语言圣经 中文版.epub.baiduyun.p.downloading)
-* [Go语言最佳实践-英文版-文字版](Go\Go 语言最佳实践-英文版-文字版.pdf)
+* [Go语言最佳实践-英文版-文字版](Go\Go语言最佳实践-英文版-文字版.pdf)
 * [Go语言·云动力-中文版-扫描版](Go\Go语言·云动力-中文版-扫描版.pdf)
 * [Go语言入门-中文版-文字版](Go\Go语言入门-中文版-文字版.pdf)
 * [Go语言入门教程-中文版-扫描版](Go\Go语言入门教程-中文版-扫描版.pdf)
@@ -27,14 +26,14 @@
 * [JAVA编程思想[第四版]](Java\JAVA编程思想[第四版].pdf)
 * [Java网络编程(第3版,2004).(Java.Network.Programming).Elliotte.Rusty.Harold.文字版](Java\Java网络编程(第3版,2004).(Java.Network.Programming).Elliotte.Rusty.Harold.文字版.pdf)
 ### Linux
-* [LinuxShell脚本攻略.第3版](Linux\Linux Shell脚本攻略.第3版.pdf)
-* [LinuxShell脚本攻略（第3版） 图灵版 ](Linux\Linux Shell脚本攻略（第3版） 图灵版.pdf)
+* [LinuxShell脚本攻略.第3版](Linux\LinuxShell脚本攻略.第3版.pdf)
+* [LinuxShell脚本攻略（第3版） 图灵版 ](Linux\LinuxShell脚本攻略（第3版） 图灵版.pdf)
 * [Linux命令行与shell脚本编程大全.第3版](Linux\Linux命令行与shell脚本编程大全.第3版.pdf)
 * [Linux就该这么学.epub](Linux\Linux就该这么学.epub)
 * [Linux就该这么学.pdf](Linux\Linux就该这么学.pdf)
 * [精通Linux.第2版](Linux\Linux精通Linux.第2版.pdf)
 * [运维工程师必会的109个Linux命令](Linux\Linux运维工程师必会的109个Linux命令.pdf)
-* [鸟哥的Linux私房菜 基础学习篇(第三版)](Linux\Linux鸟哥的Linux私房菜 基础学习篇(第三版).pdf)
+* [鸟哥的Linux私房菜基础学习篇(第三版)](Linux\Linux鸟哥的Linux私房菜基础学习篇(第三版).pdf)
 * [鸟哥的Linux私房菜服务器架设篇(第三版)](Linux\Linux鸟哥的Linux私房菜服务器架设篇(第三版).pdf)
 ### Python
 * [EffectivePython.编写高质量Python代码的59个有效方法.BrettSlatkin](Python\Python Effective Python.编写高质量Python代码的59个有效方法.Brett Slatkin.pdf)
